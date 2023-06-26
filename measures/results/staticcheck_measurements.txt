@@ -1,0 +1,1 @@
+command: staticcheck ./... || user time: 12.21s || system time: 1.42s || real time: 5.41s || total cpu: 251% || max memory 192 kB

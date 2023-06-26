@@ -1,0 +1,1 @@
+command: prealloc -forloops -rangeloops -set_exit_status || user time: 0.03s || system time: 0.00s || real time: 0.10s || total cpu: 34% || max memory 10 kB

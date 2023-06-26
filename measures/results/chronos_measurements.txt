@@ -1,0 +1,1 @@
+command: chronos --mod ./ || user time: 14.22s || system time: 7.18s || real time: 8.24s || total cpu: 259% || max memory 1568 kB

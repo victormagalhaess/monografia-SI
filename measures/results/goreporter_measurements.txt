@@ -1,0 +1,1 @@
+command: goreporter -p . || user time: 2.04s || system time: 4.40s || real time: 15.73s || total cpu: 40% || max memory 99 kB

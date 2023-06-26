@@ -1,0 +1,1 @@
+command: govulncheck ./... || user time: 9.14s || system time: 0.94s || real time: 3.82s || total cpu: 263% || max memory 711 kB

@@ -1,0 +1,1 @@
+command: gokart scan || user time: 8.58s || system time: 10.28s || real time: 20.37s || total cpu: 92% || max memory 338 kB
