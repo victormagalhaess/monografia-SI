@@ -1,0 +1,9 @@
+version: '3'
+services:
+  analysis:
+    build:
+      context: .
+    container_name: analysis-container
+    command: ["/bin/sh", "/entrypoint.sh"]
+    volumes:
+      - ./entrypoint.sh:/entrypoint.sh
